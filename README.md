@@ -1,16 +1,17 @@
-### Magic the Gathering Classification 
+### Magic the Gathering Classification
 
-You may be familiar with magic the gathering. 
+hi Hollis. 
+You may be familiar with magic the gathering.
 
-It's a strategy trading card game with many different cards. Players build decks with a set amount of cards. The cards he or she chooses determines the strategy. The diversity of cards printed over the last 20 years leads to a very diverse playing environment, and makes selecting the best cards for your deck difficult. 
+It's a strategy trading card game with many different cards. Players build decks with a set amount of cards. The cards he or she chooses determines the strategy. The diversity of cards printed over the last 20 years leads to a very diverse playing environment, and makes selecting the best cards for your deck difficult.
 
-In this project I seek to classify cards by their text/abilities. As a player I know that the five colors represent five overarching strategies. Each color has unique keyword abilities. I will use logistic regression then machine learning to attempt to classify the cards based solely on text. 
+In this project I seek to classify cards by their text/abilities. As a player I know that the five colors represent five overarching strategies. Each color has unique keyword abilities. I will use logistic regression then machine learning to attempt to classify the cards based solely on text.
 
 Perfect accuracy is unachievable without overfitting. Every now and then a card gets printed that pushes the boundaries of what that color is allowed to do. Looking at the inevitable residuals should be very interesting.  
 
 Goals are twofold:
-   - Compare various machine learning methods. 
-   - Identify residuals and see if they fit a pattern. 
+   - Compare various machine learning methods.
+   - Identify residuals and see if they fit a pattern.
 
 <img src="data/images/IMG_5683.JPG" width=800/>
 
